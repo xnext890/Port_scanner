@@ -2,8 +2,6 @@
 
 Este proyecto es un **escáner de puertos simple**, desarrollado para aprender fundamentos de **networking**, **programación en Python** y **ciberseguridad ofensiva básica**.
 
-Ideal como primer proyecto para portafolios de ciberseguridad.
-
 ---
 
 ## Características
